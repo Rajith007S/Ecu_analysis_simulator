@@ -1,0 +1,7 @@
+# build files
+*.o
+ecu_system
+ecu_log.txt
+
+# linux temporary
+*.swp
